@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>module1 assignment1</title>
+</head>
+<body>
+    <h1>New York - Central Park</h1>
+    <nav role="navigation">
+        <ul>
+            <li><a href="#">Decription</a></li>
+            <li><a href="#">Related Photos</a></li>
+            <li><a href="#">Review</a></li>
+        </ul>
+    </nav>
+    <h1>Description</h1>
+    <p>Photo by ABC</p>
+    <p>This photo shows the view of central park taken on october 22,2011 with nikon dslr</p>
+    <img src="C:\Users\hp\Downloads\cen park.jfif" width="540" height="250"/>
+    <p><em>Conservatory Pond in Central Park</em></p>
+    <section>
+        <h1>Related Photos</h1>
+        <img src="C:\Users\hp\Downloads\img1.jfif" width="150" height="200"/>
+        <img src="C:\Users\hp\Downloads\img2.jfif" width="150" height="200"/>
+        <img src="C:\Users\hp\Downloads\img3.jfif" width="150" height="200"/>
+    </section>
+    <section>
+        <h1>Reviews</h1>
+        <P>By Ricardo on sept15,2015</P>
+        <p>F.R.I.E.N.D.S</p>
+        <hr>
+    </section>
+    <p><a href="#">Home|</a>
+    <p><a href="#">Browse|</a>
+    <p><a href="#">Search</a>
+    </p>
+    <footer><span style="color:green">copyright&#169</span></footer> 
+</body>
+</html>
